@@ -1,5 +1,5 @@
 # mosaic2hsi
-A set of trained networks for reconstructing hyperspectral images from a raw mosaic image.
+A set of trained networks for reconstructing hyperspectral images from a raw mosaic image. For more information, please contact Liheng Bian (bian at bit dot edu dot cn).
 
 # Environment
 Python: 3.7
